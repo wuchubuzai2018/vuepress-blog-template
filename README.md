@@ -19,10 +19,6 @@ npm install
 npm run docs:dev
 ```
 
-启动后，会提示访问地址：http://localhost:8080/ ，此时在浏览器中输入该地址即可，效果如下所示：
-
-![2](/Users/longyu/data/develop/blog/docs/70.博客搭建/10.博客搭建/image/2.png)
-
-具体搭建过程，可访问个人博客中的搭建过程：
+启动后，会提示访问地址：http://localhost:8080/ ，此时在浏览器中输入该地址即可访问博客，具体细节可访问个人博客中的搭建过程。
 
 https://www.aijavapro.com/pages/e05223

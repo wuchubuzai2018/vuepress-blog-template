@@ -21,4 +21,4 @@ npm run docs:dev
 
 启动后，会提示访问地址：http://localhost:8080/ ，此时在浏览器中输入该地址即可访问博客，具体细节可访问个人博客中的搭建过程。
 
-https://www.aijavapro.com/pages/e05223
+https://www.aijavapro.cn/pages/e05223

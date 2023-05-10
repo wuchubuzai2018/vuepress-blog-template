@@ -41,6 +41,10 @@ module.exports = {
             {
                 text: '专题内容',
                 link: '/pages/264e1a/'
+            },
+             {
+                text: '自定义指南',
+                link: '/pages/24112f/'
             }
         ],
         sidebar: {
